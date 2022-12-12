@@ -1,6 +1,6 @@
 # fl_hint_bubbles
 
-Sample Flutter project presenting hint bubbles using RenderObject solution.
+Sample Flutter project presenting hint bubbles with RenderObject solution.
 
 ## Getting Started
 
